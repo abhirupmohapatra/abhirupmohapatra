@@ -1,4 +1,4 @@
-**# Hi there! 👋 I'm Abhirup Mohapatra 
+# Hi there! 👋 I'm Abhirup Mohapatra #
 
 🎓 **B.Tech in Electronics and Communication Engineering** from Silicon University, Bhubaneswar (Graduating in June 2025)  
 🚀 Passionate about **SAP ABAP, SAP HANA, DevOps and Cloud Computing**  
