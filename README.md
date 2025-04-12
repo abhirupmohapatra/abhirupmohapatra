@@ -1,22 +1,23 @@
-# Hi there! 👋 I'm Abhirup Mohapatra  
+**# Hi there! 👋 I'm Abhirup Mohapatra 
 
 🎓 **B.Tech in Electronics and Communication Engineering** from Silicon University, Bhubaneswar (Graduating in June 2025)  
-🚀 Passionate about **DevOps,Cloud Computing And Java Development**  
-🔧 Experienced with **CI/CD Pipelines, Docker, Kubernetes, Terraform, AWS, Azure, Python and Java**  
+🚀 Passionate about **SAP ABAP, SAP HANA, DevOps and Cloud Computing**  
+🔧 Experienced with **SAP ABAP, Docker, Terraform, AWS, Azure, My SQL and Java**  
 
 ## 🔗 Connect with Me  
 - 📫 [Email](mailto:avirup987@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhirup-mohapatra-7266361bb)  
 
 ## 🛠️ My Tech Stack  
-- **Languages:** Java,Python, JavaScript, HTML, CSS  
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform, Ansible, Argo CD  
+- **Languages:** SAP ABAP, Java, JavaScript, HTML, CSS  
+- **DevOps Tools:** Docker, Jenkins, Terraform, Ansible 
 - **Cloud Platforms:** AWS, Azure
 - **DataBase:** MySQL
 
 ## 🌱 Currently Learning  
-- Advanced Kubernetes and Microservices Architecture  
-- AI Integration in DevOps  
+- Advanced Business Application Programming (ABAP) 
+- RAP, CDS, and OData services on SAP BTP and S/4HANA
+-  Data Modelling also
 
 ## ⚡ Fun Facts  
 - 🏏 I love playing cricket and watching matches in my free time.  
@@ -28,3 +29,4 @@
 ---
 
 
+**
